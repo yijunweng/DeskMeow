@@ -1,0 +1,68 @@
+{
+  "": {
+    "swift-dependencies": "/Users/wkr2sgh/Desktop/pet-ai/.build/arm64-apple-macosx/debug/PetAIDesktop.build/primary.swiftdeps"
+  },
+  "/Users/wkr2sgh/Desktop/pet-ai/Sources/PetAIDesktop/App/AppDelegate.swift": {
+    "dependencies": "/Users/wkr2sgh/Desktop/pet-ai/.build/arm64-apple-macosx/debug/PetAIDesktop.build/AppDelegate.d",
+    "object": "/Users/wkr2sgh/Desktop/pet-ai/.build/arm64-apple-macosx/debug/PetAIDesktop.build/AppDelegate.swift.o",
+    "swiftmodule": "/Users/wkr2sgh/Desktop/pet-ai/.build/arm64-apple-macosx/debug/PetAIDesktop.build/AppDelegate~partial.swiftmodule",
+    "swift-dependencies": "/Users/wkr2sgh/Desktop/pet-ai/.build/arm64-apple-macosx/debug/PetAIDesktop.build/AppDelegate.swiftdeps",
+    "diagnostics": "/Users/wkr2sgh/Desktop/pet-ai/.build/arm64-apple-macosx/debug/PetAIDesktop.build/AppDelegate.dia"
+  },
+  "/Users/wkr2sgh/Desktop/pet-ai/Sources/PetAIDesktop/App/OverlayWindowController.swift": {
+    "dependencies": "/Users/wkr2sgh/Desktop/pet-ai/.build/arm64-apple-macosx/debug/PetAIDesktop.build/OverlayWindowController.d",
+    "object": "/Users/wkr2sgh/Desktop/pet-ai/.build/arm64-apple-macosx/debug/PetAIDesktop.build/OverlayWindowController.swift.o",
+    "swiftmodule": "/Users/wkr2sgh/Desktop/pet-ai/.build/arm64-apple-macosx/debug/PetAIDesktop.build/OverlayWindowController~partial.swiftmodule",
+    "swift-dependencies": "/Users/wkr2sgh/Desktop/pet-ai/.build/arm64-apple-macosx/debug/PetAIDesktop.build/OverlayWindowController.swiftdeps",
+    "diagnostics": "/Users/wkr2sgh/Desktop/pet-ai/.build/arm64-apple-macosx/debug/PetAIDesktop.build/OverlayWindowController.dia"
+  },
+  "/Users/wkr2sgh/Desktop/pet-ai/Sources/PetAIDesktop/Engine/ActivityModels.swift": {
+    "dependencies": "/Users/wkr2sgh/Desktop/pet-ai/.build/arm64-apple-macosx/debug/PetAIDesktop.build/ActivityModels.d",
+    "object": "/Users/wkr2sgh/Desktop/pet-ai/.build/arm64-apple-macosx/debug/PetAIDesktop.build/ActivityModels.swift.o",
+    "swiftmodule": "/Users/wkr2sgh/Desktop/pet-ai/.build/arm64-apple-macosx/debug/PetAIDesktop.build/ActivityModels~partial.swiftmodule",
+    "swift-dependencies": "/Users/wkr2sgh/Desktop/pet-ai/.build/arm64-apple-macosx/debug/PetAIDesktop.build/ActivityModels.swiftdeps",
+    "diagnostics": "/Users/wkr2sgh/Desktop/pet-ai/.build/arm64-apple-macosx/debug/PetAIDesktop.build/ActivityModels.dia"
+  },
+  "/Users/wkr2sgh/Desktop/pet-ai/Sources/PetAIDesktop/Engine/Desktop/DesktopWindowSensor.swift": {
+    "dependencies": "/Users/wkr2sgh/Desktop/pet-ai/.build/arm64-apple-macosx/debug/PetAIDesktop.build/DesktopWindowSensor.d",
+    "object": "/Users/wkr2sgh/Desktop/pet-ai/.build/arm64-apple-macosx/debug/PetAIDesktop.build/DesktopWindowSensor.swift.o",
+    "swiftmodule": "/Users/wkr2sgh/Desktop/pet-ai/.build/arm64-apple-macosx/debug/PetAIDesktop.build/DesktopWindowSensor~partial.swiftmodule",
+    "swift-dependencies": "/Users/wkr2sgh/Desktop/pet-ai/.build/arm64-apple-macosx/debug/PetAIDesktop.build/DesktopWindowSensor.swiftdeps",
+    "diagnostics": "/Users/wkr2sgh/Desktop/pet-ai/.build/arm64-apple-macosx/debug/PetAIDesktop.build/DesktopWindowSensor.dia"
+  },
+  "/Users/wkr2sgh/Desktop/pet-ai/Sources/PetAIDesktop/Engine/Desktop/Platform.swift": {
+    "dependencies": "/Users/wkr2sgh/Desktop/pet-ai/.build/arm64-apple-macosx/debug/PetAIDesktop.build/Platform.d",
+    "object": "/Users/wkr2sgh/Desktop/pet-ai/.build/arm64-apple-macosx/debug/PetAIDesktop.build/Platform.swift.o",
+    "swiftmodule": "/Users/wkr2sgh/Desktop/pet-ai/.build/arm64-apple-macosx/debug/PetAIDesktop.build/Platform~partial.swiftmodule",
+    "swift-dependencies": "/Users/wkr2sgh/Desktop/pet-ai/.build/arm64-apple-macosx/debug/PetAIDesktop.build/Platform.swiftdeps",
+    "diagnostics": "/Users/wkr2sgh/Desktop/pet-ai/.build/arm64-apple-macosx/debug/PetAIDesktop.build/Platform.dia"
+  },
+  "/Users/wkr2sgh/Desktop/pet-ai/Sources/PetAIDesktop/Engine/OverlayViewModel.swift": {
+    "dependencies": "/Users/wkr2sgh/Desktop/pet-ai/.build/arm64-apple-macosx/debug/PetAIDesktop.build/OverlayViewModel.d",
+    "object": "/Users/wkr2sgh/Desktop/pet-ai/.build/arm64-apple-macosx/debug/PetAIDesktop.build/OverlayViewModel.swift.o",
+    "swiftmodule": "/Users/wkr2sgh/Desktop/pet-ai/.build/arm64-apple-macosx/debug/PetAIDesktop.build/OverlayViewModel~partial.swiftmodule",
+    "swift-dependencies": "/Users/wkr2sgh/Desktop/pet-ai/.build/arm64-apple-macosx/debug/PetAIDesktop.build/OverlayViewModel.swiftdeps",
+    "diagnostics": "/Users/wkr2sgh/Desktop/pet-ai/.build/arm64-apple-macosx/debug/PetAIDesktop.build/OverlayViewModel.dia"
+  },
+  "/Users/wkr2sgh/Desktop/pet-ai/Sources/PetAIDesktop/Engine/PetSimulationEngine.swift": {
+    "dependencies": "/Users/wkr2sgh/Desktop/pet-ai/.build/arm64-apple-macosx/debug/PetAIDesktop.build/PetSimulationEngine.d",
+    "object": "/Users/wkr2sgh/Desktop/pet-ai/.build/arm64-apple-macosx/debug/PetAIDesktop.build/PetSimulationEngine.swift.o",
+    "swiftmodule": "/Users/wkr2sgh/Desktop/pet-ai/.build/arm64-apple-macosx/debug/PetAIDesktop.build/PetSimulationEngine~partial.swiftmodule",
+    "swift-dependencies": "/Users/wkr2sgh/Desktop/pet-ai/.build/arm64-apple-macosx/debug/PetAIDesktop.build/PetSimulationEngine.swiftdeps",
+    "diagnostics": "/Users/wkr2sgh/Desktop/pet-ai/.build/arm64-apple-macosx/debug/PetAIDesktop.build/PetSimulationEngine.dia"
+  },
+  "/Users/wkr2sgh/Desktop/pet-ai/Sources/PetAIDesktop/UI/OverlayRootView.swift": {
+    "dependencies": "/Users/wkr2sgh/Desktop/pet-ai/.build/arm64-apple-macosx/debug/PetAIDesktop.build/OverlayRootView.d",
+    "object": "/Users/wkr2sgh/Desktop/pet-ai/.build/arm64-apple-macosx/debug/PetAIDesktop.build/OverlayRootView.swift.o",
+    "swiftmodule": "/Users/wkr2sgh/Desktop/pet-ai/.build/arm64-apple-macosx/debug/PetAIDesktop.build/OverlayRootView~partial.swiftmodule",
+    "swift-dependencies": "/Users/wkr2sgh/Desktop/pet-ai/.build/arm64-apple-macosx/debug/PetAIDesktop.build/OverlayRootView.swiftdeps",
+    "diagnostics": "/Users/wkr2sgh/Desktop/pet-ai/.build/arm64-apple-macosx/debug/PetAIDesktop.build/OverlayRootView.dia"
+  },
+  "/Users/wkr2sgh/Desktop/pet-ai/Sources/PetAIDesktop/main.swift": {
+    "dependencies": "/Users/wkr2sgh/Desktop/pet-ai/.build/arm64-apple-macosx/debug/PetAIDesktop.build/main.d",
+    "object": "/Users/wkr2sgh/Desktop/pet-ai/.build/arm64-apple-macosx/debug/PetAIDesktop.build/main.swift.o",
+    "swiftmodule": "/Users/wkr2sgh/Desktop/pet-ai/.build/arm64-apple-macosx/debug/PetAIDesktop.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/wkr2sgh/Desktop/pet-ai/.build/arm64-apple-macosx/debug/PetAIDesktop.build/main.swiftdeps",
+    "diagnostics": "/Users/wkr2sgh/Desktop/pet-ai/.build/arm64-apple-macosx/debug/PetAIDesktop.build/main.dia"
+  }
+}
