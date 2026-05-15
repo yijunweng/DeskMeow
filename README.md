@@ -1,59 +1,41 @@
-# DeskMeow
 
-DeskMeow 是一个桌面宠物应用，基于 Swift 开发，支持 macOS 平台。
+# DeskMeow 桌面宠物
 
-## 功能简介
-- 桌面宠物模拟与互动
-- 覆盖窗口与传感器检测
-- 活动模型与宠物行为引擎
-- 简洁的 UI 交互体验
+> 让你的 Mac 桌面充满乐趣和陪伴！
 
-## 目录结构
-```
-Package.swift                // Swift 包管理配置
-prd.md                      // 产品需求文档
-technical-architecture.md   // 技术架构说明
-docs/                       // 项目文档
-  environment-setup.md      // 环境搭建说明
-  environment-status.md     // 环境状态说明
-  mvp-development-plan.md   // MVP 开发计划
-  run-demo.md               // 运行演示说明
-scripts/                    // 脚本文件
-  dev_preflight.sh          // 开发前置脚本
-Sources/                    // 源码目录
-  PetAIDesktop/             // 主模块
-    main.swift              // 程序入口
-    App/                    // 应用相关
-      AppDelegate.swift
-      OverlayWindowController.swift
-    Engine/                 // 引擎相关
-      ActivityModels.swift
-      OverlayViewModel.swift
-      PetSimulationEngine.swift
-      Desktop/              // 桌面相关
-        DesktopWindowSensor.swift
-        Platform.swift
-    UI/                     // UI 相关
-      OverlayRootView.swift
-```
+## 应用简介
+DeskMeow 是一款可爱的桌面宠物应用，为你的 macOS 桌面带来虚拟萌宠。它会在屏幕上自由活动、卖萌、与你互动，为你的工作和生活增添一份温馨与乐趣。
 
-## 环境要求
-- macOS 12 及以上
-- Xcode 14 及以上
-- Swift 5.7 及以上
+## 主要特色
+- **多种宠物形象**：选择你喜欢的小猫咪，未来还将支持更多宠物。
+- **智能互动**：宠物会根据你的操作和时间段做出不同反应。
+- **屏幕陪伴**：宠物会在桌面上走动、打滚、打招呼，陪你度过每一天。
+- **轻量无打扰**：不影响你正常使用电脑，随时可隐藏或召唤。
 
-## 快速开始
-1. 克隆仓库：
-   ```bash
-   git clone https://github.com/yijunweng/DeskMeow.git
-   cd DeskMeow
-   ```
-2. 打开 `Package.swift` 或使用 Xcode 打开项目。
-3. 参考 `docs/environment-setup.md` 配置开发环境。
-4. 编译并运行。
+## 安装方法
+1. 前往 [DeskMeow 官网](https://github.com/yijunweng/DeskMeow/releases) 或 App Store 下载最新版。
+2. 按提示将应用拖入“应用程序”文件夹。
+3. 双击 DeskMeow 启动，首次运行如遇安全提示请在“系统设置-隐私与安全性”中允许。
 
-## 贡献指南
-欢迎提交 issue 和 PR，详细流程见 `docs/` 目录。
+## 使用说明
+- 启动后，宠物会自动出现在桌面。
+- 可通过菜单栏图标进行设置、隐藏或退出。
+- 支持拖拽、点击等简单互动。
+- 更多玩法和自定义功能，敬请期待后续更新！
 
-## License
-MIT
+## 常见问题
+- **如何关闭宠物？**
+	点击菜单栏 DeskMeow 图标，选择“退出”。
+- **宠物挡住窗口怎么办？**
+	可临时隐藏，或调整宠物活动区域。
+- **如何反馈建议？**
+	欢迎在 [GitHub Issues](https://github.com/yijunweng/DeskMeow/issues) 留言。
+
+## 联系与支持
+如有问题或建议，欢迎通过 GitHub 反馈。
+
+---
+
+**重要提示：项目代码、功能或架构如有任何更改，必须同步更新相关文档，确保文档与实际保持一致。**
+
+让 DeskMeow 成为你桌面上的温暖伙伴吧！
